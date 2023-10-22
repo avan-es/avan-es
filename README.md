@@ -16,6 +16,22 @@
 </table>
 </p>
 
+---
+
+<p align="center">
+  <table align="center" width="100%">
+    <tr>
+        <th colspan="2">МОИ ОСНОВНЫЕ ПРОЕКТЫ</th>
+    </tr>
+    <tr>
+        <th> <img width="50" src="https://github.com/avan-es/avan-es/assets/83888190/701f9943-9789-4695-ad90-a09fa4df735c"/>
+<p><a href="https://github.com/avan-es/java-explore-with-me">Explore With Me (КудаGo)</a></p></td>
+    </th>
+    <th>Многомодульное приложение, которое позволяет пользователям создавать и делиться информацией об интересных событиях и находить компанию для участия в них. <br><br>Стек технологий: Java, Spring Boot, Hibernate, PostgreSQL, Docker, Apache Maven, Lombok, Querydsl APT, Postman, IntelliJ IDEA, DBeaver.</th>
+    
+</table>
+</p>
+
 
 
 
