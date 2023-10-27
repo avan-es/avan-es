@@ -32,8 +32,7 @@
         <th> <img width="50" src="https://github.com/avan-es/avan-es/assets/83888190/681cbccc-28cb-49f7-a236-8633d5c69559"/>
 <p><a href="https://github.com/avan-es/java-filmorate">Filmorate (Фильмотека)</a></p></td>
     </th>
-    <th>REST приложение, которое позволяет пользователям добавлять фильмы и ставить им оценки. <br><br>Стек технологий: Java, Spring Boot, Hibernate, PostgreSQL, Apache Maven, Lombok, Querydsl APT, Postman, IntelliJ IDEA, DBeaver.</th>
-    
+    <th>Бэкенд для сервиса, который работает с фильмами и оценками пользователей, а также возвращает топ-N фильмов, рекомендованных к просмотру.<br><br>Стек технологий: Java, Spring Boot, Hibernate, PostgreSQL, JdbcTemplate, REST, Apache Maven, Lombok, Postman, IntelliJ IDEA, DBeaver.</th>
 </table>
 </p>
 
