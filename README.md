@@ -1,8 +1,24 @@
-<p align="center">
-:v:<br>Привет! Меня зовут Баграт, и я рад видеть тебя на моей страничке!
-</p>
+<div id="header" align="center">
+  <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExaHpzbmxvM2l5ZGpxNGRzMTF5anhwOWN1cGozeWN0M2EyZGhqMjZnYiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/ijBRn5Ppei7l97g3GM/giphy.gif" width="150"/>
+  <br>Привет! Меня зовут Баграт, и я рад видеть тебя на моей страничке!<br><br>
+  <img src="https://komarev.com/ghpvc/?username=avan-es&style=flat-square&color=blue" alt=""/>
+  <br><br>
+</div>
 
-![](https://komarev.com/ghpvc/?username=avan-es)
+<div id="badges" align="center">
+   <a href="https://t.me/ABGRTA">
+    <img src="https://img.shields.io/badge/telegram-blue?style=for-the-badge&logo=telegram" alt="Telegram Badge"/>
+  </a>
+  <a href="https://instagram.com/avan_es">
+    <img src="https://img.shields.io/badge/Instagram-orange?style=for-the-badge&logo=instagram" alt="Instagram Badge"/>
+  </a>
+  <a href="https://www.linkedin.com/in/bagrat-avanesian-b645a6250/">
+    <img src="https://img.shields.io/badge/linkedin-purple?style=for-the-badge&logo=linkedin" alt="Linkedin Badge"/>
+  </a>
+  <a href="https://www.facebook.com/avanbgrt">
+    <img src="https://img.shields.io/badge/Facebook-blue?style=for-the-badge&logo=facebook" alt="Facebook Badge"/>
+  </a>
+</div>
 
 ---
 <p align="center">
@@ -35,31 +51,3 @@
     <th>Бэкенд для сервиса, который работает с фильмами и оценками пользователей, а также возвращает топ-N фильмов, рекомендованных к просмотру.<br><br>Стек технологий: Java, Spring Boot, Hibernate, PostgreSQL, JdbcTemplate, REST, Apache Maven, Lombok, Postman, IntelliJ IDEA, DBeaver.</th>
 </table>
 </p>
-
-
-
-
-
-
-<!-- [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=avan-es&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
-
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=avan-es)](https://github.com/anuraghazra/github-readme-stats)
-
-
-[![trophy](https://github-profile-trophy.vercel.app/?username=avan-es)](https://github.com/avan-es/github-profile-trophy)
---!>
-
-<!--
-**avan-es/avan-es** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
