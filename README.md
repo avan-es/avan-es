@@ -49,5 +49,11 @@
 <p><a href="https://github.com/avan-es/java-filmorate">Filmorate (Фильмотека)</a></p></td>
     </th>
     <th>Бэкенд для сервиса, который работает с фильмами и оценками пользователей, а также возвращает топ-N фильмов, рекомендованных к просмотру.<br><br>Стек технологий: Java, Spring Boot, Hibernate, PostgreSQL, JdbcTemplate, REST, Apache Maven, Lombok, Postman, IntelliJ IDEA, DBeaver.</th>
+    <tr>
+        <th> <img width="50" src="https://github.com/avan-es/avan-es/assets/83888190/2c770bfe-6c96-4322-9054-1b297d31706f"/>
+<p><a href="https://github.com/avan-es/java-shareit">ShareIt (Вещь в аренду)</a></p></td>
+    </th>
+    <th>Многомодульное приложение. Сервис для шеринга вещей. Обеспечивает пользователям, во-первых, возможность рассказать, какими вещами они готовы поделиться, а во-вторых, находить нужную вещь и брать её в аренду на какое-то время.<br><br>Стек технологий: Java, Spring Boot, REST, Hibernate, PostgreSQL, Mockito, JUnit, Docker, Apache Maven, Lombok, Postman, IntelliJ IDEA, DBeaver.</th>
 </table>
 </p>
+
