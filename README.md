@@ -1,6 +1,6 @@
 <div id="header" align="center">
   <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExaHpzbmxvM2l5ZGpxNGRzMTF5anhwOWN1cGozeWN0M2EyZGhqMjZnYiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/ijBRn5Ppei7l97g3GM/giphy.gif" width="150"/>
-  <br>Привет! Меня зовут Баграт, и я рад видеть тебя на моей страничке!<br><br>
+  <br>
   <img src="https://komarev.com/ghpvc/?username=avan-es&style=flat-square&color=blue" alt=""/>
   <br><br>
 </div>
